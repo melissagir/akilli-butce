@@ -1,8 +1,9 @@
 
-## Canlı Uygulama Linki: https://akilli-butce.streamlit.app/
 # Akıllı Bütçe ve Harcama Analizörü
 
 Harcamaları sadece takip etmekle kalmayıp istatistiksel olarak yorumlayan modern bir bütçe uygulaması.
+
+## Canlı Uygulama Linki: https://akilli-butce.streamlit.app/
 
 ## Özellikler
 
